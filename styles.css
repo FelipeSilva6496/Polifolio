@@ -1,0 +1,33 @@
+body {    font-family: Arial, sans-serif;
+        margin: 0;    padding: 0;  
+          background-color: #ecf0f1; 
+          /* Cor de fundo */    color: #2c3e50;
+           /* Cor do texto */}
+
+
+header {    background-color: black;
+     /* Cor principal */    color: #ffffff;
+      /* Texto branco */    padding: 20px;    text-align: center;}
+
+h2 {    color: black;
+     /* Cor secundária */
+    }
+
+section {    margin: 20px;    padding: 20px;    background-color: #ffffff;
+     /* Fundo branco para seções */    border-radius: 5px;  
+       box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);}
+
+a {    color: #e74c3c;
+     /* Cor de destaque */    text-decoration: none; 
+     /* Sem sublinhado */}a:hover 
+
+{    text-decoration: underline; /* Sublinhado ao passar o mouse */}
+
+p {
+    font-size: 30px;
+}
+
+
+footer {    background-color: blue; 
+    /* Cor do rodapé */    color: #ffffff; 
+    /* Texto branco */    text-align: center;    padding: 10px;}
