@@ -7,21 +7,35 @@ body {
 }
 
 header {
-    background-color: #3498db; /* Cor principal */
+    background-color: black; /* Cor principal */
     color: #ffffff; /* Texto branco */
     padding: 20px;
     text-align: center;
 }
 img {
-    width: 150px; /* Defina a largura da imagem */
+    width: 350px; /* Defina a largura da imagem */
     height: auto; /* Mantém a proporção da imagem */
-    border-radius: 50%; /* Faz a imagem ficar em formato circular */
-    display: block; /* Para centralizar a imagem */
+    border-radius: 30px; /* Faz a imagem ficar em formato circular */
+     /* Para centralizar a imagem */
     margin: 20px auto; /* Margem acima e abaixo da imagem, e centraliza horizontalmente */
 }
 
+p{ font-weight: bold;
+    
+
+}
+
+.imgs{
+    width: 250px;
+    height: auto;
+    border-radius: 30px;
+    display: block;
+    margin: 20px auto;
+
+}
+
 h2 {
-    color: #2ecc71; /* Cor secundária */
+    color: black; /* Cor secundária */
 }
 
 section {
@@ -35,6 +49,7 @@ section {
     
     
 }
+
 
 
 
